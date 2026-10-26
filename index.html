@@ -56,7 +56,7 @@ r('Amaretto Sour','🍋',['Amaretto','Lemon Juice','Simple Syrup'],['2 oz amaret
 r('Kalimotxo','🍷',['Red Wine','Cola'],['3 oz red wine','3 oz cola'],'Combine equal parts chilled red wine and cola over ice.','Easy Spanish wine highball.')
 ];
 const key='mybar-stock-v1';
-const SUGGESTION_SCRIPT_URL=''; // Optional Google Apps Script web-app URL (see setup guide)
+const SUGGESTION_SCRIPT_URL='https://script.google.com/macros/s/AKfycbzDvZHGLfiIDLoilLYk2pv1DmDKoBJd6amcEJtM74TPLcZ1YBw6Bo3Z0b4-XZirIRci/exec'; // Optional Google Apps Script web-app URL (see setup guide)
 const COMMUNITY_FORM_URL='https://docs.google.com/forms/d/e/1FAIpQLSey6t7HcNHeMkRjKOTgKOSuTrmm4CgoYpHaPTA5ZbFGIREfFg/viewform?usp=sharing&ouid=117703366497373137980';
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const load=(k,fallback)=>{try{return JSON.parse(localStorage.getItem(k)||'null')??fallback}catch{return fallback}};
