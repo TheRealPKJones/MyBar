@@ -1,1 +1,17 @@
 []
+    "name": "Midnight Berry",
+    "emoji": "🍹",
+    "items": [
+      "Vodka",
+      "Cranberry Juice",
+      "Blue Curaçao"
+    ],
+    "amounts": [
+      "1.5 oz vodka",
+      "3 oz cranberry juice",
+      "0.5 oz blue curaçao"
+    ],
+    "steps": "Mix over ice and stir.",
+    "description": "A fruity blue-purple vodka cocktail."
+  }
+]
