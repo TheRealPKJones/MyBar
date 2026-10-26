@@ -1,0 +1,1722 @@
+[
+  {
+    "name": "Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Vanilla Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Raspberry Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Strawberry Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Citrus Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Whipped Cream Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Caramel Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Peach Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Mango Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Pineapple Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Coconut Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Espresso Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Smirnoff Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Grey Goose Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Tito's Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Absolut Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Ketel One Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Cîroc Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "Belvedere Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "New Amsterdam Vodka",
+    "group": "Spirits"
+  },
+  {
+    "name": "White Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Dark Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Aged Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Gold Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Spiced Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Coconut Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Overproof Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Jamaican Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Black Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "151 Proof Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Malibu Coconut Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Bacardi Superior Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Captain Morgan Spiced Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Kraken Black Spiced Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Appleton Estate Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Havana Club Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Mount Gay Rum",
+    "group": "Spirits"
+  },
+  {
+    "name": "Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "London Dry Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Old Tom Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Pink Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Sloe Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Hendrick's Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Bombay Sapphire Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Tanqueray Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Beefeater Gin",
+    "group": "Spirits"
+  },
+  {
+    "name": "Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Blanco Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Reposado Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Añejo Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Extra Añejo Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Gold Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Patrón Silver Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Don Julio Blanco Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Jose Cuervo Especial Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Espolòn Blanco Tequila",
+    "group": "Spirits"
+  },
+  {
+    "name": "Mezcal",
+    "group": "Spirits"
+  },
+  {
+    "name": "Espadín Mezcal",
+    "group": "Spirits"
+  },
+  {
+    "name": "Whiskey",
+    "group": "Spirits"
+  },
+  {
+    "name": "Bourbon",
+    "group": "Spirits"
+  },
+  {
+    "name": "Rye Whiskey",
+    "group": "Spirits"
+  },
+  {
+    "name": "Canadian Whisky",
+    "group": "Spirits"
+  },
+  {
+    "name": "Irish Whiskey",
+    "group": "Spirits"
+  },
+  {
+    "name": "Scotch Whisky",
+    "group": "Spirits"
+  },
+  {
+    "name": "Blended Scotch",
+    "group": "Spirits"
+  },
+  {
+    "name": "Single Malt Scotch",
+    "group": "Spirits"
+  },
+  {
+    "name": "Tennessee Whiskey",
+    "group": "Spirits"
+  },
+  {
+    "name": "Japanese Whisky",
+    "group": "Spirits"
+  },
+  {
+    "name": "Crown Royal Whisky",
+    "group": "Spirits"
+  },
+  {
+    "name": "Crown Royal Apple",
+    "group": "Spirits"
+  },
+  {
+    "name": "Crown Royal Vanilla",
+    "group": "Spirits"
+  },
+  {
+    "name": "Jack Daniel's Tennessee Whiskey",
+    "group": "Spirits"
+  },
+  {
+    "name": "Jack Daniel's Honey",
+    "group": "Spirits"
+  },
+  {
+    "name": "Jim Beam Bourbon",
+    "group": "Spirits"
+  },
+  {
+    "name": "Maker's Mark Bourbon",
+    "group": "Spirits"
+  },
+  {
+    "name": "Jameson Irish Whiskey",
+    "group": "Spirits"
+  },
+  {
+    "name": "Fireball Cinnamon Whisky",
+    "group": "Spirits"
+  },
+  {
+    "name": "Southern Comfort",
+    "group": "Spirits"
+  },
+  {
+    "name": "Canadian Club Whisky",
+    "group": "Spirits"
+  },
+  {
+    "name": "Johnnie Walker Black Label",
+    "group": "Spirits"
+  },
+  {
+    "name": "Dewar's White Label",
+    "group": "Spirits"
+  },
+  {
+    "name": "Chivas Regal",
+    "group": "Spirits"
+  },
+  {
+    "name": "Brandy",
+    "group": "Spirits"
+  },
+  {
+    "name": "Cognac",
+    "group": "Spirits"
+  },
+  {
+    "name": "Hennessy VS Cognac",
+    "group": "Spirits"
+  },
+  {
+    "name": "Rémy Martin VSOP Cognac",
+    "group": "Spirits"
+  },
+  {
+    "name": "Calvados",
+    "group": "Spirits"
+  },
+  {
+    "name": "Apple Brandy",
+    "group": "Spirits"
+  },
+  {
+    "name": "Pisco",
+    "group": "Spirits"
+  },
+  {
+    "name": "Grappa",
+    "group": "Spirits"
+  },
+  {
+    "name": "Aquavit",
+    "group": "Spirits"
+  },
+  {
+    "name": "Absinthe",
+    "group": "Spirits"
+  },
+  {
+    "name": "Cachaça",
+    "group": "Spirits"
+  },
+  {
+    "name": "Soju",
+    "group": "Spirits"
+  },
+  {
+    "name": "Sake",
+    "group": "Spirits"
+  },
+  {
+    "name": "Baijiu",
+    "group": "Spirits"
+  },
+  {
+    "name": "Moonshine",
+    "group": "Spirits"
+  },
+  {
+    "name": "White Lightning Moonshine",
+    "group": "Spirits"
+  },
+  {
+    "name": "Champagne / Sparkling Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Champagne",
+    "group": "Wine"
+  },
+  {
+    "name": "Prosecco",
+    "group": "Wine"
+  },
+  {
+    "name": "Cava",
+    "group": "Wine"
+  },
+  {
+    "name": "Brut Sparkling Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Rosé Sparkling Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Red Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "White Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Rosé Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Sweet Red Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Dry Red Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Dry White Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Moscato",
+    "group": "Wine"
+  },
+  {
+    "name": "Pinot Grigio",
+    "group": "Wine"
+  },
+  {
+    "name": "Sauvignon Blanc",
+    "group": "Wine"
+  },
+  {
+    "name": "Chardonnay",
+    "group": "Wine"
+  },
+  {
+    "name": "Merlot",
+    "group": "Wine"
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "group": "Wine"
+  },
+  {
+    "name": "Port Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Sherry",
+    "group": "Wine"
+  },
+  {
+    "name": "Dry Sherry",
+    "group": "Wine"
+  },
+  {
+    "name": "Sweet Sherry",
+    "group": "Wine"
+  },
+  {
+    "name": "Madeira",
+    "group": "Wine"
+  },
+  {
+    "name": "Sangria",
+    "group": "Wine"
+  },
+  {
+    "name": "Hard Cider",
+    "group": "Wine"
+  },
+  {
+    "name": "Apple Cider",
+    "group": "Wine"
+  },
+  {
+    "name": "Pear Cider",
+    "group": "Wine"
+  },
+  {
+    "name": "Beer",
+    "group": "Wine"
+  },
+  {
+    "name": "Lager",
+    "group": "Wine"
+  },
+  {
+    "name": "Stout",
+    "group": "Wine"
+  },
+  {
+    "name": "Wheat Beer",
+    "group": "Wine"
+  },
+  {
+    "name": "Ginger Wine",
+    "group": "Wine"
+  },
+  {
+    "name": "Triple Sec",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Cointreau",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Grand Marnier",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Blue Curaçao",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Orange Curaçao",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Dry Curaçao",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Peach Schnapps",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Butterscotch Schnapps",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Peppermint Schnapps",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Apple Schnapps",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Watermelon Schnapps",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Cinnamon Schnapps",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Amaretto",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Disaronno",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Coffee Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Kahlúa",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Tia Maria",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Baileys Irish Cream",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Irish Cream Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Crème de Cacao",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "White Crème de Cacao",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Dark Crème de Cacao",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Crème de Menthe",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Green Crème de Menthe",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "White Crème de Menthe",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Crème de Cassis",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Crème de Mûre",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Crème de Violette",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Crème de Banane",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Banana Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Melon Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Midori",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Raspberry Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Chambord",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Strawberry Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Blackberry Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Cherry Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Maraschino Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Luxardo Maraschino",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Elderflower Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "St-Germain",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Limoncello",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Aperol",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Campari",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Fernet-Branca",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Jägermeister",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Sambuca",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Ouzo",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Pastis",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Anisette",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Galliano",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Drambuie",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Bénédictine",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Frangelico",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Licor 43",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Pimm's No. 1",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Chartreuse Green",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Chartreuse Yellow",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Sweet Vermouth",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Dry Vermouth",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Blanc Vermouth",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Averna",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Amaro Montenegro",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Amaro Nonino",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Cynar",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Coffee Cream Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Coconut Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Passion Fruit Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Mango Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Pineapple Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Lychee Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Ginger Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Honey Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Hazelnut Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Chocolate Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Salted Caramel Liqueur",
+    "group": "Liqueurs"
+  },
+  {
+    "name": "Orange Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cranberry Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Pineapple Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Grapefruit Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Apple Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Lemon Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Lime Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Tomato Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Pomegranate Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cherry Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Grape Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "White Grape Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Peach Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Mango Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Passion Fruit Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Guava Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Watermelon Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Strawberry Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Raspberry Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Blueberry Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Coconut Water",
+    "group": "Mixers"
+  },
+  {
+    "name": "Coconut Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Coconut Cream",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cola",
+    "group": "Mixers"
+  },
+  {
+    "name": "Diet Cola",
+    "group": "Mixers"
+  },
+  {
+    "name": "Coca-Cola",
+    "group": "Mixers"
+  },
+  {
+    "name": "Pepsi",
+    "group": "Mixers"
+  },
+  {
+    "name": "Dr Pepper",
+    "group": "Mixers"
+  },
+  {
+    "name": "Root Beer",
+    "group": "Mixers"
+  },
+  {
+    "name": "Ginger Ale",
+    "group": "Mixers"
+  },
+  {
+    "name": "Ginger Beer",
+    "group": "Mixers"
+  },
+  {
+    "name": "Lemon-Lime Soda",
+    "group": "Mixers"
+  },
+  {
+    "name": "Sprite",
+    "group": "Mixers"
+  },
+  {
+    "name": "7UP",
+    "group": "Mixers"
+  },
+  {
+    "name": "Mountain Dew",
+    "group": "Mixers"
+  },
+  {
+    "name": "Orange Soda",
+    "group": "Mixers"
+  },
+  {
+    "name": "Grape Soda",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cream Soda",
+    "group": "Mixers"
+  },
+  {
+    "name": "Tonic Water",
+    "group": "Mixers"
+  },
+  {
+    "name": "Soda Water",
+    "group": "Mixers"
+  },
+  {
+    "name": "Club Soda",
+    "group": "Mixers"
+  },
+  {
+    "name": "Sparkling Water",
+    "group": "Mixers"
+  },
+  {
+    "name": "Seltzer",
+    "group": "Mixers"
+  },
+  {
+    "name": "Lemonade",
+    "group": "Mixers"
+  },
+  {
+    "name": "Pink Lemonade",
+    "group": "Mixers"
+  },
+  {
+    "name": "Limeade",
+    "group": "Mixers"
+  },
+  {
+    "name": "Sweet and Sour Mix",
+    "group": "Mixers"
+  },
+  {
+    "name": "Margarita Mix",
+    "group": "Mixers"
+  },
+  {
+    "name": "Piña Colada Mix",
+    "group": "Mixers"
+  },
+  {
+    "name": "Bloody Mary Mix",
+    "group": "Mixers"
+  },
+  {
+    "name": "Energy Drink",
+    "group": "Mixers"
+  },
+  {
+    "name": "Red Bull",
+    "group": "Mixers"
+  },
+  {
+    "name": "Iced Tea",
+    "group": "Mixers"
+  },
+  {
+    "name": "Black Tea",
+    "group": "Mixers"
+  },
+  {
+    "name": "Green Tea",
+    "group": "Mixers"
+  },
+  {
+    "name": "Chai Tea",
+    "group": "Mixers"
+  },
+  {
+    "name": "Coffee",
+    "group": "Mixers"
+  },
+  {
+    "name": "Espresso",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cold Brew Coffee",
+    "group": "Mixers"
+  },
+  {
+    "name": "Decaf Coffee",
+    "group": "Mixers"
+  },
+  {
+    "name": "Hot Chocolate",
+    "group": "Mixers"
+  },
+  {
+    "name": "Chocolate Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Whole Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Skim Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Oat Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Almond Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Soy Milk",
+    "group": "Mixers"
+  },
+  {
+    "name": "Half-and-Half",
+    "group": "Mixers"
+  },
+  {
+    "name": "Heavy Cream",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cream",
+    "group": "Mixers"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "group": "Mixers"
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "group": "Mixers"
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "group": "Mixers"
+  },
+  {
+    "name": "Tropical Punch",
+    "group": "Mixers"
+  },
+  {
+    "name": "Fruit Punch",
+    "group": "Mixers"
+  },
+  {
+    "name": "Hawaiian Punch",
+    "group": "Mixers"
+  },
+  {
+    "name": "Clamato Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Vegetable Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Kombucha",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cucumber Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Aloe Vera Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Birch Beer",
+    "group": "Mixers"
+  },
+  {
+    "name": "Cranberry Cocktail Juice",
+    "group": "Mixers"
+  },
+  {
+    "name": "Sparkling Apple Cider",
+    "group": "Mixers"
+  },
+  {
+    "name": "Lime",
+    "group": "Fresh"
+  },
+  {
+    "name": "Lemon",
+    "group": "Fresh"
+  },
+  {
+    "name": "Orange",
+    "group": "Fresh"
+  },
+  {
+    "name": "Grapefruit",
+    "group": "Fresh"
+  },
+  {
+    "name": "Pineapple",
+    "group": "Fresh"
+  },
+  {
+    "name": "Strawberry",
+    "group": "Fresh"
+  },
+  {
+    "name": "Raspberry",
+    "group": "Fresh"
+  },
+  {
+    "name": "Blueberry",
+    "group": "Fresh"
+  },
+  {
+    "name": "Blackberry",
+    "group": "Fresh"
+  },
+  {
+    "name": "Cherry",
+    "group": "Fresh"
+  },
+  {
+    "name": "Maraschino Cherry",
+    "group": "Fresh"
+  },
+  {
+    "name": "Watermelon",
+    "group": "Fresh"
+  },
+  {
+    "name": "Cantaloupe",
+    "group": "Fresh"
+  },
+  {
+    "name": "Honeydew Melon",
+    "group": "Fresh"
+  },
+  {
+    "name": "Peach",
+    "group": "Fresh"
+  },
+  {
+    "name": "Nectarine",
+    "group": "Fresh"
+  },
+  {
+    "name": "Apple",
+    "group": "Fresh"
+  },
+  {
+    "name": "Green Apple",
+    "group": "Fresh"
+  },
+  {
+    "name": "Pear",
+    "group": "Fresh"
+  },
+  {
+    "name": "Banana",
+    "group": "Fresh"
+  },
+  {
+    "name": "Mango",
+    "group": "Fresh"
+  },
+  {
+    "name": "Passion Fruit",
+    "group": "Fresh"
+  },
+  {
+    "name": "Kiwi",
+    "group": "Fresh"
+  },
+  {
+    "name": "Cucumber",
+    "group": "Fresh"
+  },
+  {
+    "name": "Mint",
+    "group": "Fresh"
+  },
+  {
+    "name": "Basil",
+    "group": "Fresh"
+  },
+  {
+    "name": "Rosemary",
+    "group": "Fresh"
+  },
+  {
+    "name": "Thyme",
+    "group": "Fresh"
+  },
+  {
+    "name": "Sage",
+    "group": "Fresh"
+  },
+  {
+    "name": "Cilantro",
+    "group": "Fresh"
+  },
+  {
+    "name": "Ginger",
+    "group": "Fresh"
+  },
+  {
+    "name": "Fresh Ginger",
+    "group": "Fresh"
+  },
+  {
+    "name": "Jalapeño",
+    "group": "Fresh"
+  },
+  {
+    "name": "Serrano Pepper",
+    "group": "Fresh"
+  },
+  {
+    "name": "Habanero Pepper",
+    "group": "Fresh"
+  },
+  {
+    "name": "Celery",
+    "group": "Fresh"
+  },
+  {
+    "name": "Celery Stalk",
+    "group": "Fresh"
+  },
+  {
+    "name": "Cinnamon Stick",
+    "group": "Fresh"
+  },
+  {
+    "name": "Star Anise",
+    "group": "Fresh"
+  },
+  {
+    "name": "Vanilla Bean",
+    "group": "Fresh"
+  },
+  {
+    "name": "Lavender",
+    "group": "Fresh"
+  },
+  {
+    "name": "Hibiscus",
+    "group": "Fresh"
+  },
+  {
+    "name": "Rose Petals",
+    "group": "Fresh"
+  },
+  {
+    "name": "Lemongrass",
+    "group": "Fresh"
+  },
+  {
+    "name": "Pomegranate Seeds",
+    "group": "Fresh"
+  },
+  {
+    "name": "Orange Peel",
+    "group": "Fresh"
+  },
+  {
+    "name": "Lemon Peel",
+    "group": "Fresh"
+  },
+  {
+    "name": "Lime Peel",
+    "group": "Fresh"
+  },
+  {
+    "name": "Grapefruit Peel",
+    "group": "Fresh"
+  },
+  {
+    "name": "Coconut Flakes",
+    "group": "Fresh"
+  },
+  {
+    "name": "Olives",
+    "group": "Fresh"
+  },
+  {
+    "name": "Cocktail Onions",
+    "group": "Fresh"
+  },
+  {
+    "name": "Simple Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Rich Simple Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Grenadine",
+    "group": "Other"
+  },
+  {
+    "name": "Agave Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Honey Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Maple Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Vanilla Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Caramel Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Chocolate Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Strawberry Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Raspberry Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Blackberry Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Blueberry Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Peach Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Passion Fruit Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Mango Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Coconut Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Orgeat",
+    "group": "Other"
+  },
+  {
+    "name": "Falernum",
+    "group": "Other"
+  },
+  {
+    "name": "Ginger Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Cinnamon Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Mint Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Lavender Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Elderflower Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Rose Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Hibiscus Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Brown Sugar Syrup",
+    "group": "Other"
+  },
+  {
+    "name": "Sugar",
+    "group": "Other"
+  },
+  {
+    "name": "Brown Sugar",
+    "group": "Other"
+  },
+  {
+    "name": "Powdered Sugar",
+    "group": "Other"
+  },
+  {
+    "name": "Sugar Cube",
+    "group": "Other"
+  },
+  {
+    "name": "Salt",
+    "group": "Other"
+  },
+  {
+    "name": "Sea Salt",
+    "group": "Other"
+  },
+  {
+    "name": "Kosher Salt",
+    "group": "Other"
+  },
+  {
+    "name": "Tajín",
+    "group": "Other"
+  },
+  {
+    "name": "Chili Salt",
+    "group": "Other"
+  },
+  {
+    "name": "Black Pepper",
+    "group": "Other"
+  },
+  {
+    "name": "Cayenne Pepper",
+    "group": "Other"
+  },
+  {
+    "name": "Cinnamon",
+    "group": "Other"
+  },
+  {
+    "name": "Nutmeg",
+    "group": "Other"
+  },
+  {
+    "name": "Ground Ginger",
+    "group": "Other"
+  },
+  {
+    "name": "Cloves",
+    "group": "Other"
+  },
+  {
+    "name": "Cardamom",
+    "group": "Other"
+  },
+  {
+    "name": "Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Angostura Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Orange Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Peychaud's Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Chocolate Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Celery Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Grapefruit Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Aromatic Bitters",
+    "group": "Other"
+  },
+  {
+    "name": "Orange Blossom Water",
+    "group": "Other"
+  },
+  {
+    "name": "Rose Water",
+    "group": "Other"
+  },
+  {
+    "name": "Vanilla Extract",
+    "group": "Other"
+  },
+  {
+    "name": "Almond Extract",
+    "group": "Other"
+  },
+  {
+    "name": "Cocoa Powder",
+    "group": "Other"
+  },
+  {
+    "name": "Chocolate Shavings",
+    "group": "Other"
+  },
+  {
+    "name": "Whipped Cream",
+    "group": "Other"
+  },
+  {
+    "name": "Egg White",
+    "group": "Other"
+  },
+  {
+    "name": "Egg Yolk",
+    "group": "Other"
+  },
+  {
+    "name": "Whole Egg",
+    "group": "Other"
+  },
+  {
+    "name": "Aquafaba",
+    "group": "Other"
+  },
+  {
+    "name": "Cream of Coconut",
+    "group": "Other"
+  },
+  {
+    "name": "Peanut Butter",
+    "group": "Other"
+  },
+  {
+    "name": "Jam",
+    "group": "Other"
+  },
+  {
+    "name": "Strawberry Jam",
+    "group": "Other"
+  },
+  {
+    "name": "Marmalade",
+    "group": "Other"
+  },
+  {
+    "name": "Worcestershire Sauce",
+    "group": "Other"
+  },
+  {
+    "name": "Tabasco Sauce",
+    "group": "Other"
+  },
+  {
+    "name": "Hot Sauce",
+    "group": "Other"
+  },
+  {
+    "name": "Horseradish",
+    "group": "Other"
+  },
+  {
+    "name": "Soy Sauce",
+    "group": "Other"
+  },
+  {
+    "name": "Balsamic Vinegar",
+    "group": "Other"
+  },
+  {
+    "name": "Apple Cider Vinegar",
+    "group": "Other"
+  },
+  {
+    "name": "Rice Vinegar",
+    "group": "Other"
+  },
+  {
+    "name": "Apple Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Peach Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Mango Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Strawberry Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Raspberry Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Passion Fruit Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Coconut Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Pumpkin Purée",
+    "group": "Other"
+  },
+  {
+    "name": "Ice",
+    "group": "Other"
+  },
+  {
+    "name": "Crushed Ice",
+    "group": "Other"
+  },
+  {
+    "name": "Edible Glitter",
+    "group": "Other"
+  },
+  {
+    "name": "Food Coloring",
+    "group": "Other"
+  }
+]
